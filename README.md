@@ -27,3 +27,6 @@ $ npm run dev # serve examples at localhost:8080
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+
+官网地址： https://vuex.vuejs.org/zh-cn/state.html
